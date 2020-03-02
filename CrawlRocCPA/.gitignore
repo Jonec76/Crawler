@@ -1,0 +1,8 @@
+*.txt
+*.json
+*.html
+test.*
+*部*
+*.xlsx
+chromedriver
+__pycache__
